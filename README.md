@@ -16,11 +16,11 @@ make "Block"
 *    give him collisions
 
 TO-DO: upgrade movememnt/game world
-    make movement smooth
-    add jump feature
-    add gravity
-    add friction
-    make simple test platform
+*   make movement smooth
+*   add jump feature
+*   add gravity
+*   add friction
+*   make simple test platform
 
 NOTES:
 
