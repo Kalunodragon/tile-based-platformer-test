@@ -12,6 +12,11 @@ h3 {
     color: cadetblue;
 }
 
+p {
+    text-align: center;
+    color: cadetblue
+}
+
 #gameTitle {
     text-align: center;
 }
